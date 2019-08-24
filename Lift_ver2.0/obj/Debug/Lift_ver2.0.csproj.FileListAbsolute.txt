@@ -1,0 +1,20 @@
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\bin\Debug\Lift_ver2.0.exe.config
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\bin\Debug\Lift_ver2.0.exe
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\bin\Debug\Lift_ver2.0.pdb
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.csprojResolveAssemblyReference.cache
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2._0.Form1.resources
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2._0.Properties.Resources.resources
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.csproj.GenerateResource.Cache
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.csproj.CoreCompileInputs.cache
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.exe
+C:\Users\Nishat Ahmed\Documents\C# Project\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.pdb
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\bin\Debug\Lift_ver2.0.exe.config
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\bin\Debug\Lift_ver2.0.exe
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\bin\Debug\Lift_ver2.0.pdb
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2._0.Form1.resources
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2._0.Properties.Resources.resources
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.csproj.GenerateResource.cache
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.csproj.CoreCompileInputs.cache
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.exe
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.pdb
+C:\Users\nisha\Documents\C# Projects\Lift_ver2.0\Lift_ver2.0\obj\Debug\Lift_ver2.0.csprojAssemblyReference.cache
